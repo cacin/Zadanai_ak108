@@ -1,0 +1,12 @@
+body{
+    background-color: silver;
+}
+h1{
+    color: white;
+}
+div{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    margin: 4px;
+}
