@@ -1,8 +1,8 @@
-p{background-color: aquamarine;}
-p+p+p{background-color: red;}
+p{background-color: aquamarine;
+height: 100px;
+width: 100px;}
+.p-color{background-color: red;}
 
-p~p~p~p~p~p{background-color: aquamarine;}
-
-p+p+p+p+p+p+p+p+p{
+.p-cien{
     opacity: 0.7;
 }
