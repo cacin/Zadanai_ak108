@@ -1,0 +1,8 @@
+p{background-color: aquamarine;}
+p+p+p{background-color: red;}
+
+p~p~p~p~p~p{background-color: aquamarine;}
+
+p+p+p+p+p+p+p+p+p{
+    opacity: 0.7;
+}
