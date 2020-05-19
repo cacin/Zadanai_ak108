@@ -1,0 +1,9 @@
+p{
+    background-color: burlywood;
+}
+h1,h3{
+    background-color: cadetblue;
+}
+h1+h3{
+    color: chartreuse;
+}
