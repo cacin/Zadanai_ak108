@@ -1,0 +1,14 @@
+ol>li~li{
+    color: whitesmoke;
+}
+ol>li~li~li{
+    color: darkblue;
+}
+
+ol>li~li~li~li{
+    color: darkgoldenrod;
+}
+
+ol>li~li~li~li~li{
+    color:black;
+}

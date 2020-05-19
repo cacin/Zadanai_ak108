@@ -1,0 +1,18 @@
+body{
+    background-color: dimgray;
+}
+h1{
+    color: dodgerblue;
+}
+h1+p{
+    color: firebrick;
+}
+h2{
+    color: forestgreen;
+}
+h2+p{
+    color: fuchsia;
+}
+ol{
+    color: yellow;
+}
