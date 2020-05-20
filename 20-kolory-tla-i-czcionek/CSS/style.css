@@ -2,17 +2,17 @@ body{
     background-color: dimgray;
 }
 h1{
-    color: dodgerblue;
+    background-color: dodgerblue;
 }
 h1+p{
-    color: firebrick;
+    background-color: firebrick;
 }
 h2{
-    color: forestgreen;
+    background-color: forestgreen;
 }
 h2+p{
-    color: fuchsia;
+    background-color: fuchsia;
 }
 ol{
-    color: yellow;
+    background-color: yellow;
 }
