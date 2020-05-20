@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+    background-image: url("../img/milky-way-1023340_1920.jpg");
+    color: aliceblue;
+}
+
+#o-mnie{
+    text-align: center;
+}
+img{
+    display: inline;
+    width: 300px;
+    height: 300px;
+}
+label{
+    display: grid;
+    width: 400px;
+}
